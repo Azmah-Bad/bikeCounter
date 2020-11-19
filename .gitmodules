@@ -1,0 +1,3 @@
+[submodule "bikerider-detector"]
+	path = bikerider-detector
+	url = https://github.com/yonghah/bikerider-detector.git
